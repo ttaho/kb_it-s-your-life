@@ -1,0 +1,33 @@
+iframe{
+    width: 720px;
+    height:1013px;
+    
+}
+form{
+    border: 1px double rgb(231, 231, 63);
+    border-width: 6px;
+    margin: 0 auto;
+    width: 900px;
+    height: 1550px;
+    padding: 20px;
+    position:absolute;left:30%
+}
+header{
+    text-align: center;
+    font-size: 22px;
+}
+#image{
+    text-align: center;   
+}
+#fee{
+    margin: 20px 20px 20px 0px;
+}
+#option{
+    border: 1px solid;
+    padding: 10px;
+    margin-top: 20px;
+  }
+
+input[type=text]{
+    margin-bottom: 20px;
+}
